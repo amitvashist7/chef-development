@@ -1,3 +1,6 @@
+package 'nano'
+package 'net-tools'
+
 package 'tree' do
  action :install
 end
