@@ -1,10 +1,10 @@
 name 'workstation'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Amit Vashist'
+maintainer_email 'amitvashist7@gmail.com'
 license 'All Rights Reserved'
-description 'Installs/Configures workstation'
+description 'Now it can install Nano & Net-Tools Package'
 long_description 'Installs/Configures workstation'
-version '0.1.0'
+version '0.2.0'
 chef_version '>= 12.14' if respond_to?(:chef_version)
 
 # The `issues_url` points to the location where issues for this cookbook are
