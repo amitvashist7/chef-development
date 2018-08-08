@@ -1,0 +1,4 @@
+name 'production'
+description 'My Production Environment'
+
+cookbook 'apache', '= 1.0.1'

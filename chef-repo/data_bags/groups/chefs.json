@@ -1,0 +1,6 @@
+{
+  "id": "chefs",
+  "gid": "2002",
+  "members": ["user1", "user2", "amit", "advik"],
+  "platfrom": "centos"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "advik",
+  "comment": "I am advik",
+  "uid": "1004",
+  "gid": "1",
+  "home": "/home/advik",
+  "shell": "/bin/bash",
+  "platfrom": "centos"
+}
