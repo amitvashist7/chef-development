@@ -1,9 +1,0 @@
-{
-  "id": "amit",
-  "comment": "This user amit",
-  "uid": "1003",
-  "gid": "1",
-  "home": "/home/amit",
-  "shell": "/bin/bash",
-  "platfrom": "centos"
-}
